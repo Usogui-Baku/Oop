@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-/*
+/**
  * A program that calculates the area of various geometric shapes.
  *
  * This program presents a menu-driven interface that allows users to calculate the area of
@@ -8,7 +8,7 @@ import java.util.Scanner;
  * selects the exit option.
  */
 public class AreaProgram {
-  /*
+  /**
    * The entry point of the AreaProgram application.
    *
    * Displays a menu of shape options and prompts the user to enter the desired option.
