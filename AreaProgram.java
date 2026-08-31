@@ -11,7 +11,7 @@ public class AreaProgram {
   /*
    * The entry point of the AreaProgram application.
    *
-   * <p>Displays a menu of shape options and prompts the user to enter the desired option.
+   * Displays a menu of shape options and prompts the user to enter the desired option.
    * Based on the user's selection, the program calculates and displays the area of the
    * selected shape. The program repeats until the user chooses to exit.
    *
